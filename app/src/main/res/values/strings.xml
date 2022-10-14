@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">HolaMundo</string>
+    <string name="app_name">MENU</string>
+    <string name="app_name2">OPCION 1</string>
+    <string name="app_name3">OPCION 2</string>
+    <string name="app_name4">OPCION 3</string>
+    <string name="app_name5">OPCION 4</string>
+
 </resources>
